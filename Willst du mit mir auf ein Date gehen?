@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Date?</title>
+</head>
+<body style="text-align:center; font-family:sans-serif;">
+  <h1>Willst du mit mir auf ein Date gehen? 💕</h1>
+  <button onclick="alert('YAY!!! ❤️')">Ja 😍</button>
+  <button onclick="alert('Falsche Antwort 😜')">Nein 😅</button>
+</body>
+</html>
